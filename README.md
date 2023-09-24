@@ -1,2 +1,2 @@
-# go-lab
-Labortories and practice ground for Golang
+# Go-Lab
+My Labortories and practice ground for Golang
